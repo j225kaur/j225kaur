@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **j225kaur@uwaterloo.ca**
 
-- 📄 Know about my experiences [file:///Users/jasvin/Desktop/profile.html](file:///Users/jasvin/Desktop/profile.html)
+- 📄 Know about my experiences https://drive.google.com/file/d/17MJN8iB48u-K5pmAxllTidG6H_yFBNEw/view?usp=sharing
 
 - ⚡ Fun fact **I like ice-cream on top of waffles 🤤**
 
