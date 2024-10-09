@@ -4,12 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c2c315240a33d03dc80d0b793144cf88b2bf535fbdd6a1720b7aed2b63035adb/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363035362c77696474682d313230302c6865696768742d3930302c696d6773697a652d3633383035332c726573697a656d6f64652d382f32303231303730365f646576656c6f7065722d65636f6e6f6d795f30312e6a7067">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j225kaur&label=Profile%20views&color=0e75b6&style=flat" alt="j225kaur" /> </p>
 
-- 🔭 I’m currently working on **Fashion ChatBot**
-
-- 🌱 I’m currently learning **C++**
-
-- 💬 Ask me about **Python, SQL, Blockchain**
-
 - 📫 How to reach me **j225kaur@uwaterloo.ca**
 
 - ⚡ Fun fact **I like ice-cream on top of waffles 🤤**
