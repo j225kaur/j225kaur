@@ -24,7 +24,6 @@
 <a href="https://www.linkedin.com/in/jasvin-kaur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasvin kaur" height="30" width="40" /></a>
 <a href="https://github.com/j225kaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="j225kaur" height="30" width="40" /></a>
 <a href="https://j225kaur.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="website" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jasvin_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jasvin_16" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jasvin_16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jasvin_16" height="30" width="40" /></a>
 <a href="https://discord.gg/tmumNBTf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jasvinkaur2004" height="30" width="40" /></a>
 </p>
