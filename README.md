@@ -83,13 +83,3 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j225kaur&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="j225kaur" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j225kaur&show_icons=true&locale=en&theme=tokyonight" alt="j225kaur" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j225kaur&theme=tokyonight" alt="j225kaur" /></p>
