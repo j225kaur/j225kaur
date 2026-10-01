@@ -9,7 +9,7 @@
 
 - 🌱 Learning **agent frameworks (LangChain, LangGraph, MCP), RAG pipelines, and vector databases (FAISS, ChromaDB)**
 
-- 💼 Previously interned at **Nokia, Innovate4good, and UW RoboSoccer**
+- 💼 Previously interned at **Nokia, Revvity, Innovate4good, and UW RoboSoccer**
 
 - 🎯 Seeking **Software Engineering / Applied ML New Grad opportunities for 2027**
 
